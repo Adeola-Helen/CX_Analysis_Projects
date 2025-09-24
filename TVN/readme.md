@@ -17,29 +17,31 @@ The primary goals of the analysis were to:
 - Highlight **customer dislikes** to guide product refinements and retention strategies.  
 
 ## Insights Deep Dive  
-- **Taste Perception**
+
+- **Taste Perception**  
   54.2% rated TVN’s taste as *“Very Good”*, 28.9% as *“Good”*, and 15.9% as *“Ok”*, showing broad acceptance, particularly among female respondents.  
 
-- **Value for Money**
-  Customers largely view TVN as affordable, with most ratings falling in the *“Excellent”* and *“Above Average”* categories.  
+- **Value for Money**  
+Customers largely view TVN as affordable, with most ratings falling in the *“Excellent”* and *“Above Average”* categories.  
 
-- **Preferred Pack Size**
-  59.2% of respondents expressed demand for a **larger pack size**, indicating opportunity for line extension.  
+**Preferred Pack Size**  
+59.2% of respondents expressed demand for a **larger pack size**, indicating opportunity for line extension.  
 
-- **Availability**
-  62% of customers reported that TVN was **not easily available** in their area, limiting potential growth despite positive sentiment.  
+**Availability**  
+62% of customers reported that TVN was **not easily available** in their area, limiting potential growth despite positive sentiment.  
 
-- **Desired Improvements**
-  26.5% requested **better taste**, 18.5% asked for **improved quality**, and 9% preferred **less sweetness**, highlighting clear refinement opportunities.  
+**Desired Improvements**  
+26.5% requested **better taste**, 18.5% asked for **improved quality**, and 9% preferred **less sweetness**, highlighting clear refinement opportunities.  
 
-- **Loyalty & Advocacy**
-  24.4% of customers were *“Extremely Likely”* and 11.9% *“Very Likely”* to recommend TVN, confirming strong brand advocacy.  
+**Loyalty & Advocacy**  
+24.4% of customers were *“Extremely Likely”* and 11.9% *“Very Likely”* to recommend TVN, confirming strong brand advocacy.  
 
-- **Competitive Substitution**
-  If unavailable, 35.5% of customers would switch to sodas, 24.7% to other beverages, and 3.2% to juices, showing that sodas are the main competitive category.  
+**Competitive Substitution**  
+If unavailable, 35.5% of customers would switch to sodas, 24.7% to other beverages, and 3.2% to juices, showing that sodas are the main competitive category.  
 
-- **Customer Dislikes**
-  While 37.4% expressed full satisfaction, others raised concerns about **pricing (7.1%)**, **fermentation (3.3%)**, and **sweetness (3.3%)**, which could hinder retention if not addressed.  
+**Customer Dislikes**  
+While 37.4% expressed full satisfaction, others raised concerns about **pricing (7.1%)**, **fermentation (3.3%)**, and **sweetness (3.3%)**, which could hinder retention if not addressed.  
+
 
 ## Recommendations  
 - **Product Refinement:** Adjust sweetness and ensure consistent quality to respond to customer feedback.  
