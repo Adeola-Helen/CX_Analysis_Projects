@@ -25,22 +25,22 @@ The analysis was conducted on 20 survey questions (13 via google forms, 7 in per
 
 From the analysis of customer experience survey responses, several patterns emerged that provide a clear picture of the customer base and their perceptions of the brand.  
 
-**Customer Demographics**  
+- **Customer Demographics**  
 The majority of respondents fall within the **25–34** and **35–44** age groups. This suggests that the salon primarily attracts a young to mid-adult audience with disposable income and lifestyle-driven preferences. The demographic spread, which includes both single and married customers, offers opportunities for persona-based marketing strategies.  
 
-**Service Preferences**  
+- **Service Preferences**  
 The data shows that **pedicure, manicure, and polish change** are the dominant services used by customers. These treatments act as entry points for engagement and therefore should remain the foundation of promotions. At the same time, they provide a natural anchor for bundling slower-moving services, which the business has already begun implementing.  
 
-**Brand Perception**  
+- **Brand Perception**  
 Customers most often described the brand as *creative, attentive, and relaxing*. This points to a strong emotional connection between the service experience and customer expectations. The adoption of an emotional and nurturing brand voice aligns well with this perception, reinforcing the positioning of Aunty Funmi’s Place as a stress-relieving, rewarding environment.  
 
-**Trust and Loyalty**  
+- **Trust and Loyalty**  
 The survey confirmed that **word-of-mouth referrals** are the strongest driver of new business and customer trust. This finding emphasizes the need to maintain consistent service quality, as satisfied customers not only return but also actively promote the brand within their networks.  
 
-**Marketing Channels**  
+- **Marketing Channels**  
 Responses indicated that **Instagram and WhatsApp** are the most widely used platforms among customers. These channels should therefore be prioritized for promotions, customer engagement campaigns, and loyalty-building initiatives, as they are likely to deliver the highest impact.  
 
-**Customer Pain Points**  
+- **Customer Pain Points**  
 Despite the overall positive sentiment, recurring concerns were raised about **pricing** and **service delays**. These pain points present risks to customer satisfaction and retention. Pricing concerns suggest a need to better communicate the value of services, while delays highlight the importance of operational improvements such as scheduling efficiency and staff management.  
 
 Overall, the insights confirm that Aunty Funmi’s Place has a strong emotional appeal with customers, supported by a loyal core base and effective word-of-mouth marketing. At the same time, there are clear opportunities to strengthen competitiveness by addressing operational weaknesses and tailoring marketing strategies to customer demographics and channel preferences.  
