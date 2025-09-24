@@ -1,4 +1,4 @@
-# Customer Experience Survey Analysis  
+# Customer Experience Analysis  
 
 Welcome to my Customer Experience Survey Analysis portfolio! This repository contains a series of survey-based analyses aimed at uncovering insights into customer behavior, brand perception, product preferences, and overall experience. Each folder within this repository represents a specific survey analysis project, following a structured format for consistency.  
 
