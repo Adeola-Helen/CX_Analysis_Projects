@@ -1,10 +1,7 @@
 # Customer Experience Survey Analysis  
 
-Welcome to my Customer Experience Survey Analysis portfolio!  
-This repository contains a series of survey-based analyses aimed at uncovering insights into customer behavior, brand perception, product preferences, and overall experience.  
-Each folder within this repository represents a specific survey analysis project, following a structured format for consistency.  
+Welcome to my Customer Experience Survey Analysis portfolio! This repository contains a series of survey-based analyses aimed at uncovering insights into customer behavior, brand perception, product preferences, and overall experience. Each folder within this repository represents a specific survey analysis project, following a structured format for consistency.  
 
----
 
 ## Project Structure  
 
@@ -16,7 +13,6 @@ Each analysis folder includes the following components:
 - **Recommendations:** Actionable steps based on insights, tailored to business or organizational needs.  
 - **Analysis Resources:** Links to supporting files such as exported survey data, response summaries, dashboards, or presentations.  
 
----
 
 ## Technologies Used  
 
@@ -24,7 +20,6 @@ Each analysis folder includes the following components:
 - **Google Sheets:** For analyzing, and visualizing survey responses in greater detail.  
 - **IBM SPSS Statistics** For analyzing, and visualizing survey responses in greater detail.
 
----
 
 ## Analysis Areas  
 
@@ -35,7 +30,6 @@ Some of the business questions answered in this repository include:
 - **Customer Segmentation:** Profiling customers by demographics, behaviors, or preferences for targeted campaigns.  
 - **Trust and Loyalty Indicators:** Measuring referral potential, repeat usage likelihood, and satisfaction trends.  
 
----
 
 ## Explore Project  
 
