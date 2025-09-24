@@ -24,22 +24,22 @@ The primary goals of the analysis were to:
 - **Value for Money**  
 Customers largely view TVN as affordable, with most ratings falling in the *“Excellent”* and *“Above Average”* categories.  
 
-**Preferred Pack Size**  
+- **Preferred Pack Size**  
 59.2% of respondents expressed demand for a **larger pack size**, indicating opportunity for line extension.  
 
-**Availability**  
+- **Availability**  
 62% of customers reported that TVN was **not easily available** in their area, limiting potential growth despite positive sentiment.  
 
-**Desired Improvements**  
+- **Desired Improvements**  
 26.5% requested **better taste**, 18.5% asked for **improved quality**, and 9% preferred **less sweetness**, highlighting clear refinement opportunities.  
 
-**Loyalty & Advocacy**  
+- **Loyalty & Advocacy**  
 24.4% of customers were *“Extremely Likely”* and 11.9% *“Very Likely”* to recommend TVN, confirming strong brand advocacy.  
 
-**Competitive Substitution**  
+- **Competitive Substitution**  
 If unavailable, 35.5% of customers would switch to sodas, 24.7% to other beverages, and 3.2% to juices, showing that sodas are the main competitive category.  
 
-**Customer Dislikes**  
+- **Customer Dislikes**  
 While 37.4% expressed full satisfaction, others raised concerns about **pricing (7.1%)**, **fermentation (3.3%)**, and **sweetness (3.3%)**, which could hinder retention if not addressed.  
 
 
@@ -52,5 +52,5 @@ While 37.4% expressed full satisfaction, others raised concerns about **pricing 
 - **Address Pain Points:** Review pricing strategies and operational processes to reduce negative perceptions around cost and product consistency.  
 
 ## Analysis Resources   
-- Survey Data [link]  
-- Visual Summary Charts [link]  
+- Survey Data [link](TVN_Survey_Data.xlsx)  
+- Survey Report [link](TVN_Analysis.pdf)  
