@@ -4,7 +4,7 @@
 The analysis revealed key demographic trends, customer preferences, and brand perception drivers. Based on these insights, Aunty Funmi’s Place implemented changes to brand identity, ambience, and service bundling, while other recommendations remain as next steps.  
 
 ## Background  
-The analysis was conducted on 19 survey questions designed to uncover customer demographics, service adoption, brand voice preferences, and competitive benchmarks.  
+The analysis was conducted on 20 survey questions (13 via google forms, 7 in person) designed to uncover customer demographics, service adoption, brand voice preferences, and competitive benchmarks.  
 
 ## Objectives  
 - Analyze customer demographics and preferences.  
@@ -61,5 +61,5 @@ Overall, the insights confirm that Aunty Funmi’s Place has a strong emotional 
 - **Competitive Positioning** to emphasize differentiators (creative, attentive, emotional experience).  
 
 ## Analysis Resources  
-- Analyzed Responses (HTML/PDF exports) [link]  
-- Survey Data (Excel/CSV) [link]   
+- Analyzed Responses [link](AFP_Analysis_Charts.pdf)  
+- Survey Data (Excel/CSV) [link](AFP_Survey_Data.csv)   
