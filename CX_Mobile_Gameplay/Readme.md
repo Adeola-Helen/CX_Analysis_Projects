@@ -11,6 +11,7 @@ Together, these analyses provide a structured understanding of early-stage user 
 Early user experience strongly influences long-term retention and revenue in mobile gaming. New players typically decide within minutes whether they will continue playing, making the onboarding flow, early tasks, and ad experience critical.
 
 For this assessment, anonymized event data from a mobile puzzle-builder game was analyzed. The goal was to evaluate early player behavior, diagnose friction within the first gameplay sessions, and categorize players into behavioral segments that support targeted product and marketing strategy.  
+
 All event counts and behavioral thresholds have been recreated or anonymized.
 
 
