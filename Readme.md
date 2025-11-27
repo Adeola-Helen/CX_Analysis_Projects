@@ -15,8 +15,9 @@ Each analysis folder includes the following components:
 
 ## Analysis Areas  
 
-- [Customer Experience Analysis](Aunty_Funmi's_Place/)
-- [Customer Satisfaction Analysis](TVN/)
+- [Customer Experience Analysis - Consumer Service](Aunty_Funmi's_Place/)
+- [Customer Satisfaction Analysis - FMCG](TVN/)
+- [Customer Experience Analysis - Mobile Gameplay](CX_Mobile_Gameplay/)
 
 ## Technologies Used  
 
