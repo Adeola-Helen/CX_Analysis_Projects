@@ -175,7 +175,7 @@ These combined actions strengthen the game’s ability to retain, delight, and m
 
 ## **Analysis Resources**
 *(All materials fully anonymized prior to use)*  
-- Analysis report
-- Funnel chart based on cumulative retention (%)   
-- User journey friction notes  
-- Presentation deck summarizing findings  
+- Analysis report [link](Mobile_Gameplay_Analysis.pdf) 
+- Funnel chart based on cumulative retention (%) [link](Early_Player_Journey_Funnel.xlsx)  
+- User journey friction notes [link](First_Time_User_Journey_Notes.pdf) 
+- Presentation deck summarizing findings [link](Presentation_Deck_Mobile_Gameplay.pdf) 
